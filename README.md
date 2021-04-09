@@ -4,7 +4,7 @@ Bilgisayar oyunları içerisinden Metin2 oyunu hakkında üst düzey bilgiye sah
 
 Şu anda aktif olarak "Python, C++, C#" üzerinde calışmalar ve projeler geliştirmekteyim.<br>
 
-Discord: Sky#9998
+Discord: Sky#9998<br>
 Mail: info@auramedyam.com
 </p>
 
