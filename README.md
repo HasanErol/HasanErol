@@ -4,9 +4,9 @@ Bilgisayar oyunları içerisinden Metin2 oyunu hakkında üst düzey bilgiye sah
 
 Şu anda aktif olarak "Python, C++, C#" üzerinde calışmalar ve projeler geliştirmekteyim.<br>
 
-</br>Discord: Sky#9998<br>
-</br>Mail: info@auramedyam.com<br>
+Discord: Sky#9998
+Mail: info@auramedyam.com
 </p>
 
 <h2 align="center">Hasan Levent Erol</h2>
-<h1">Sky</h1>
+<h1 align="center">Sky</h1>
