@@ -1,10 +1,10 @@
 <h1 align="center">Sky</h1>
 <h2 align="center">Hasan Levent Erol</h2>
-<p align="center">
-2008-2009 yılları arasına internet ortamına giriş yaptım. Facebook, Skype, TeamSpeak3, Raidcall ve Discord ortamlarında bulundum.<br>
-Bilgisayar oyunları içerisinden Metin2 oyunu hakkında üst düzey bilgiye sahibim, 9 bin kullanıcıyı geçkin bir çok Metin2 PVP server yöneticiliği ve kuruculuğu yaptım<br>
-Şu anda "Python, C++, C#" yazılım dilleri üzerinde calışmalar ve projeler geliştirmekteyim.<br>
-  
-Discord: Sky#9998<br>
-Mail: info@auramedyam.com<br>
-</p>
+
+<h3>About Me:</h3>
+<ul>
+  <li>I entered the internet environment between 2008-2009. I've been to Facebook, Skype, TeamSpeak3, Raidcall and Discord.</li>
+  <li>I have high-level knowledge about Metin2 game from computer games, 9 thousand users have been a lot of Metin2 PVP server management and founders</li>
+  <li>I am currently working on "Python, C++, C#" software languages and developing projects.</li>
+  <li>📫 You can reach me from <a href="https://discord.com/users/298888568279924746" target"blank_">Discord</a> or <a href="https://instagram.com/banbeku" target="_blank">Instagram</a>.</li>
+</ul>
