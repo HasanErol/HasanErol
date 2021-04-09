@@ -9,4 +9,4 @@ Bilgisayar oyunları içerisinden Metin2 oyunu hakkında üst düzey bilgiye sah
 </p>
 
 <h2 align="center">Hasan Levent Erol</h2>
-<h1 align="center">Sky</h1>
+<h1">Sky</h1>
