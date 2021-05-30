@@ -15,6 +15,6 @@
   <li><a href="https://instagram.com/Hasan.Erol07" target="_blank">Instagram</a></li>
   <li><a href="https://discord.com/users/689002491664400386" target"blank_">Discord</a></li>
   
-![](https://komarev.com/ghpvc/?username=HasanErol&label=HasanErol+Views)
+![](https://komarev.com/ghpvc/?username=HasanErol&label=Profile+Views)
 </ul>
 
